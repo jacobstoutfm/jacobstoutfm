@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Stout / @jacobstoutfm
 - 👀 Java, C#, and more.
-- 🌱 Computer Science 2024 @ Rowan University
+- 🌱 Computer Science 2023 @ Rowan University
 - 📫 jacobstoutfm@gmail.com
 
 <!---
